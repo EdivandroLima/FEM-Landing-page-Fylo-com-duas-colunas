@@ -11,4 +11,4 @@ Este é meu envio ao desafio do [Frotend Mentor](https://www.frontendmentor.io/p
 - Normalize CSS
 - HTML5Shiv
 
-[Preview](./img/preview.png)
+![Preview](./img/preview.png)
